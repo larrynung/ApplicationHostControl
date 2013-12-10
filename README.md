@@ -1,6 +1,8 @@
 ApplicationHostControl
 ======================
 
+[![Build Status](https://travis-ci.org/larrynung/ApplicationHostControl.png?branch=master)](https://travis-ci.org/larrynung/ApplicationHostControl)
+
 Let host external application quickly and easily
 
 [C#]如何在程式中內嵌其它應用程式
